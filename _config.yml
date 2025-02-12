@@ -1,7 +1,7 @@
 title: Tulika Khargonkar # your name (or website title) here
 logo: "" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-   A neuroscience graduate with a fancy for data and the stories it tells.
+description:  # your text below (remove <br> elements if you don't need line breaks)
+  A neuroscience graduate with a fancy for data and the stories it tells.
   <br><br>
   <a href="https://www.linkedin.com/in/tkhargonkar">View My LinkedIn Profile</a> 
   
@@ -9,3 +9,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
