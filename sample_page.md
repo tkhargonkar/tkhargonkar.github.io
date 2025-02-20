@@ -58,13 +58,13 @@ A static dashboard was created in Microsoft Excel, which is pictured below:
 
 My top three recommendations based on this analysis to increase customer conversion and member retention are:
 
-- Introduction of a Weekend Payment Plan.
+- **Introduction of a Weekend Payment Plan.**
     As Casual Riders are using the service more often on weekends, and one of Cyclistic's perks is a flexible payment plan, a Weekend Payment Plan would be ideal to attract the customer base to an Annual Membership Plan.
 
-- Promotional Offer During Q2 and Q3
+- **Promotional Offer During Q2 and Q3**
     Since quarters 2 and 3 saw the most ride instances from both Casual Riders and Annual Members, it would be the ideal time for the marketing department to employ promotional offers.
 
-- Discounts on Electric Bike Usage
+- **Discounts on Electric Bike Usage**
     Not only would discounts on electric bike usage encourage Casual Riders to consider an Annual Membership Plan, it would also encourage both customer bases to choose the environmentally ideal option.
 
 ### 7. Key Skills Demonstrated
