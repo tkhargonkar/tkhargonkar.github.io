@@ -1,35 +1,19 @@
-## Portfolio
+## Portfolio Projects
 
 ---
 
-### Category Name 1 
+### [How Does Membership Status Affect Cyclistic Bike Usage? - Coursera Capstone Project](/sample_page)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+As a junior data analyst at _Cyclistic_, I analysed datasets to find key differences between two customer groups and their usage behaviour. Based on the analysis, I provided recommendations to help the company achieve their goal.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+![7b921f0f-f47e-4207-89ba-879cb55510c8](https://github.com/user-attachments/assets/cbf48691-cd86-401d-8419-1f101b46091a)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Certifications
+
+- [Google Data Analytics Specialisation](https://coursera.org/share/f4bd61035689a0b3ce9130d5ad94bb85)
+- [Google AI Essentials](https://coursera.org/share/20d2cf89a545b24721052a056f61ac4d)
+  
+---
