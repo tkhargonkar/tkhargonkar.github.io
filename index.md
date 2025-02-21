@@ -2,7 +2,7 @@
 
 ---
 
-### [How Does Membership Status Affect Cyclistic Bike Usage? - Coursera Capstone Project](/sample_page)
+### [How Does Membership Status Affect Cyclistic Bike Usage? - Coursera Capstone Project](/cyclistic_bike_usage)
 
 As a junior data analyst at _Cyclistic_, I analysed datasets to find key differences between two customer groups and their usage behaviour. Based on the analysis, I provided recommendations to help the company achieve their goal.
 
