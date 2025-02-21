@@ -1,10 +1,11 @@
 title: |
-  <h1 style="font-family: Tahoma, sans-serif; color: #db97ff; text-align: left;">
+  <h1 style="font-family: Arial, sans-serif; color: #8d44a8; text-align: left;">
     Tulika Khargonkar
   </h1>
 
 
 description: |
+  <div style="background-color: #f5f5f5; padding: 20px;">
   <p style="color: #8d44a8; font-family: Arial, sans-serif;">
     A neuroscience graduate with a fancy for data and the stories it tells.
   </p>
@@ -13,10 +14,15 @@ description: |
      style="display: inline-block; background: #0073e6; color: white; padding: 10px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">
     View My LinkedIn Profile
   </a>
-
+   </div>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+
+description: |
+
+ 
 
 
 
