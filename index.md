@@ -1,6 +1,4 @@
-  <p style="color: #8d44a8; font-family: Arial, sans-serif;">
   ## Portfolio Projects
-  </p>
 
 ---
 
@@ -18,9 +16,3 @@ As a participant of the Neuromatch Academy 2024 Computational Neuroscience cours
 
 ---
 
-### Certifications
-
-- [Google Data Analytics Specialisation](https://coursera.org/share/f4bd61035689a0b3ce9130d5ad94bb85)
-- [Google AI Essentials](https://coursera.org/share/20d2cf89a545b24721052a056f61ac4d)
-  
----
