@@ -4,9 +4,16 @@ description:  # your text below (remove <br> elements if you don't need line bre
   A neuroscience graduate with a fancy for data and the stories it tells.
   <br><br>
   <a href="https://www.linkedin.com/in/tkhargonkar">View My LinkedIn Profile</a> 
-  
+
+body {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+a:hover {
+  color: #0073e6;
+  transition: 0.3s;
+}
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
