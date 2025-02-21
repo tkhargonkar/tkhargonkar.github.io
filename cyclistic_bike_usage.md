@@ -73,6 +73,6 @@ My top three recommendations based on this analysis to increase customer convers
 
 ### 7. Key Skills Demonstrated
 
-```Microsoft Excel``` ```Data Cleaning``` ```Data Manipulation``` ```Data Visualisation```
+```Microsoft Excel```  ```Data Cleaning```  ```Data Manipulation```  ```Data Visualisation```
 
 
