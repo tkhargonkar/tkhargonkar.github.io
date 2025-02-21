@@ -54,6 +54,10 @@ A static dashboard was created in Microsoft Excel, which is pictured below:
 - Casual Riders are likelier to use electric bikes as compared to Annual Members, who prefer classic bikes.
 - Casual Riders are likelier to visit recreational locations, whereas Annual Members frequent residential and possibly office parks.
 
+The static Excel dashboard with data summary can be found here:
+
+[2025_02_20_CyclisticBikeUsage.xlsx](https://github.com/user-attachments/files/18905756/2025_02_20_CyclisticBikeUsage.xlsx)
+
 ### 6. Recommendations Based On Analysis
 
 My top three recommendations based on this analysis to increase customer conversion and member retention are:
@@ -71,7 +75,4 @@ My top three recommendations based on this analysis to increase customer convers
 
 ```Microsoft Excel``` ```Data Cleaning``` ```Data Manipulation``` ```Data Visualisation```
 
-The static Excel dashboard with data summary can be found here:
-
-[2025_02_20_CyclisticBikeUsage.xlsx](https://github.com/user-attachments/files/18905756/2025_02_20_CyclisticBikeUsage.xlsx)
 
