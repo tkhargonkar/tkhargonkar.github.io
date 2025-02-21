@@ -8,7 +8,7 @@ As a junior data analyst at _Cyclistic_, I analysed datasets to find key differe
 
 ![7b921f0f-f47e-4207-89ba-879cb55510c8](https://github.com/user-attachments/assets/cbf48691-cd86-401d-8419-1f101b46091a)
 
-
+---
 ---
 
 ### Certifications
