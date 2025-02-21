@@ -1,4 +1,6 @@
-## Portfolio Projects
+  <p style="color: #8d44a8; font-family: Arial, sans-serif;">
+  ## Portfolio Projects
+  </p>
 
 ---
 
