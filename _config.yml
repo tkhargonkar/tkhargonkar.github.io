@@ -1,15 +1,17 @@
 title: |
-  <h1 style="font-family: Garamond, serif; color: #8d44a8; text-align: left;">
+  <h1 style="font-family: Garamond, serif; color: #141942; text-align: left;">
     Tulika Khargonkar
   </h1>
 
 description: |
-  <p style="color: #8d44a8; font-family: Arial, sans-serif;">
+  <p style="color: #141942; font-family: Arial, sans-serif;">
     A neuroscience graduate with a fancy for data and the stories it tells.
   </p>
   <br>
   
-  ### Certifications
+  <h2 style="font-family: Garamond, serif; color: #141942; text-align: left;">
+    Certifications
+  </h2>
   
   <ul>
     <li><a href="https://coursera.org/share/f4bd61035689a0b3ce9130d5ad94bb85" style="color: #8d44a8; text-decoration: none;">Google Data Analytics Specialisation</a></li>
