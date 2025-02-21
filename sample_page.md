@@ -69,4 +69,9 @@ My top three recommendations based on this analysis to increase customer convers
 
 ### 7. Key Skills Demonstrated
 
-_Microsoft Excel, Data Cleaning, Data Manipulation, Data Visualisation_
+```Microsoft Excel``` ```Data Cleaning``` ```Data Manipulation``` ```Data Visualisation```
+
+The static Excel dashboard with data summary can be found here:
+
+[2025_02_20_CyclisticBikeUsage.xlsx](https://github.com/user-attachments/files/18905756/2025_02_20_CyclisticBikeUsage.xlsx)
+
