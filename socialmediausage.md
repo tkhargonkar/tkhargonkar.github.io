@@ -18,13 +18,19 @@ Duplicate entries were removed using Excel's built-in function. Some inconsisten
 
 ### 3. Highlights Of Analysis
 
-* The average time users spent on social media per day is 96 minutes.
+* The average time users spent on social media per day is 96 minutes!
+  
 * The most popular social media platform was Instagram, followed by Twitter/X and Facebook. Most of Facebook's users identify as non-binary. Most of Instagram's users are female, and most of Twitter/X's users are male.
-* Most people reported Happiness and Neutrality as their dominant emotion. As daily usage time increased, happiness and anxiety became the most frequently reported dominant emotions.
+  
+* Most people reported Happiness and Neutrality as their dominant emotion. As daily usage time increased, Happiness and Anxiety became the most frequently reported dominant emotions.
 
 * Users who reported their dominant emotion as Happiness spent the most time on social media per day (150 minutes!) with the highest number of average engagement metrics (likes, messages, comments, and posts per day) compared to users reporting other dominant emotions.
-* Younger users (ages 21 - 27) predominantly reported Neutrality and Sadness as their dominant emotion, followed closely by Happiness. Older users (ages 28 - 35), in contrast, reported Happiness and Boredom.
-* The older the users, the more reported Boredom as the dominant emotion!
+  
+* Age influences dominant emotions in the following way:
+  - Younger users (ages 21 - 27) predominantly reported Neutrality and Sadness as their dominant emotion, followed closely by Happiness.
+  - Older users (ages 28 - 35), in contrast, reported Happiness and Boredom.
+  - The older the users, the more reported Boredom as the dominant emotion!
+  - 
 * The gender distribution of emotions, although not starkly different, shows the following:
   - Female users are dominantly Happy social media users.
   - Non-binary users are dominantly Neutral social media users.
@@ -40,11 +46,7 @@ Duplicate entries were removed using Excel's built-in function. Some inconsisten
 
 ### 5. Key Skills Demonstrated
 
-```Tableau```  
-```Microsoft Excel```  
-```Dashboard Creation```  
-```Data Cleaning```  
-```Data Visualisation```
+```Tableau```  ```Microsoft Excel```  ```Dashboard Creation```  ```Data Cleaning```  ```Data Visualisation```
 
 ### 6. References
 
