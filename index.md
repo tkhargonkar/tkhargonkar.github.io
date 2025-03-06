@@ -1,6 +1,11 @@
 ## Portfolio Projects
 
 ---
+### [Social Media Usage Analysis](/socialmediausage)
+
+<img src="https://github.com/user-attachments/assets/201d68c2-12d5-418b-99b3-1a35331397cb" width=800>
+
+I investigated a dataset from Kaggle to analyse how social media usage affects dominant emotions in a sample population of 1000.
 
 ### [How Does Membership Status Affect Cyclistic Bike Usage? - Coursera Capstone Project](/cyclistic_bike_usage)
 
