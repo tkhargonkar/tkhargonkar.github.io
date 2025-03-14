@@ -1,6 +1,12 @@
 ## Portfolio Projects
 
 ---
+### [Analysing Repeat Customer Calls for Google Fiber - Capstone Project](/googlefiber)
+
+As a BI analyst, I investigated a dataset on repeat customer calls and gave recommendations to reduce call load for Google Fiber's customer service team.
+
+<img src="https://github.com/user-attachments/assets/69195499-024a-4174-ad2d-aafcef1c62ea" width=800>
+
 ### [Social Media Usage Analysis](/socialmediausage)
 
 I investigated a dataset from Kaggle to analyse how social media usage affects emotional well-being to test my own biased hypothesis.
