@@ -13,7 +13,7 @@ I investigated a dataset from Kaggle to analyse how social media usage affects e
 
 <img src="https://github.com/user-attachments/assets/201d68c2-12d5-418b-99b3-1a35331397cb" width=800>
 
-### [How Does Membership Status Affect Cyclistic Bike Usage? - Coursera Capstone Project](/cyclistic_bike_usage)
+### [How Does Membership Status Affect Cyclistic Bike Usage? - Capstone Project](/cyclistic_bike_usage)
 
 As a junior data analyst at _Cyclistic_, I analysed datasets to find key differences between two customer groups and their usage behaviour. Based on the analysis, I provided recommendations to help the company achieve their goal.
 
