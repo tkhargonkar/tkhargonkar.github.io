@@ -1,6 +1,6 @@
-## How Does Membership Status Affect Cyclistic Bike Usage? - Coursera Capstone Project
+## How Does Membership Status Affect Cyclistic Bike Usage? - Capstone Project
 
-**Project description:** _Cyclistic_ is a Chicago-based fictional bike-share company. As a junior data analyst at _Cyclistic_, I am tasked with providing the company insights into rider behaviour in order to convert casual riders into Cyclistic members.
+**Project description:** _Cyclistic_ is a Chicago-based fictional bike-share company. As a junior data analyst at _Cyclistic_, I am tasked with providing the company insights into rider behaviour in order to convert casual riders into Cyclistic members. This is part of the end-of-certificate project for Google Data Analytics.
 
 ### 1. Statement Of Business Task
 
